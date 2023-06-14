@@ -15,7 +15,6 @@ public class Carrinho {
     private List<Produto> produtos = new ArrayList<>();
 
     // Getters e Setters
-
     public Long getId() {
         return id;
     }
